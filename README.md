@@ -190,38 +190,3 @@ This project demonstrates:
 * Decision Making in Agents
 * Version Control with Git
 
----
-
-# Author
-
-**Name:** Your Name
-**Course:** DCIT 403 – Intelligent Agents
-**Institution:** University of Ghana
-
----
-
-# License
-
-This project is for **educational purposes** as part of the DCIT 403 coursework.
-
----
-
-# Final Step (Commit README)
-
-Run this in your terminal:
-
-```bash
-git add README.md
-git commit -m "Add professional project README"
-git push
-```
-
----
-
-If you want, I can also help you add **3 things that make a GitHub project look much more impressive to lecturers and recruiters**:
-
-* A **system architecture diagram**
-* **agent interaction diagram**
-* **screenshots of program output**
-
-These will make your GitHub repository look **very professional**.
